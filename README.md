@@ -1,6 +1,6 @@
 # Zenith Notes
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/warhawk-47/Zenith-Note)
 
 A visually stunning, minimalist, and high-performance note-taking application built on Cloudflare's edge network.
 
@@ -95,7 +95,7 @@ This application is designed for easy deployment to the Cloudflare network.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/warhawk-47/Zenith-Note)
 
 ## Contributing
 
